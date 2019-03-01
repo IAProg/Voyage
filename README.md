@@ -1,5 +1,5 @@
 # Voyage
-A game developed for Tombola during an apprenticeship open week.
+A game developed for Tombola during an apprenticeship assesment week.
 Written in Python using Pygame to generate graphics
 
 # Screenshots
